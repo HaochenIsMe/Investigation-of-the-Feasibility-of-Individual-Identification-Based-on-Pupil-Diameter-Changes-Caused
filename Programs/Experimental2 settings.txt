@@ -1,0 +1,36 @@
+Color variations: 青(0, 70, 255)と黄(225, 255, 0)
+Resolution: 3840 x 2160
+Viewing distance from diaplay: 60cm
+The size of diaplay: 24 inch
+Frequency: 3Hz
+The number of trials: 10 times (1 set)
+The number of sets: 5 sets
+Totally 50 trials.
+
+Stimuli:
+    experiment 1: solid-color flicker.
+    experiment 2: hollowed circular flicker.
+    experiment 3: Moving shapes.
+    experiment 4: Gray-scale gradients.
+    experiment 5: 
+    experiment 6: 
+    experiment 7: 
+    experiment 8: 
+
+Experiment 3: 
+Shapes
+    1.Circle
+    2.Square
+    3.Triangle
+    4.Star
+Speed: 50 degree/s
+
+Experiment 4:
+The glare illusion
+
+Experiment 8：
+偏心率为 0°（中央凹）
+四种顺时针方向：60°、80°、100°和120°（垂直光栅定义为0°）
+整个图案都落在中心 2–4° 以内
+
+デバイスの測定精度の限界および微小な眼球運動（振戦Tremor、ドリフトDrift、微小眼球運動Microsaccades）によって生じるノイズをも除去したい

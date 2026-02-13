@@ -1,0 +1,35 @@
+Color variations:
+    1.Red and Blue
+    2.Yellow and Blue
+    3.Red and Green
+    4.Green and Blue
+    The formar color is main color, the another color is background color.
+    The luminance contrast was controlled to be 30% of the color (ΔE2000) contrast. For a red stimulus (RGB = (255, 0, 0)), we selected a blue counterpart (RGB = (48, 48, 255))
+
+Stimuli:
+    The first experiment: solid-color flicker.
+    The second experiment: hollowed circular flicker.
+    The third experiment: Moving shapes.
+    The fourth experiment: Gray-scale gradients.
+
+background color in experiment 1:
+    1.Red and Blue = #802700
+    2.Yellow and Blue = #278000
+    3.Red and Green = #008027
+    4.Green and Blue = #002780
+
+Shapes in experiment 3: 
+    1.Circle
+    2.Square
+    3.Triangle
+    4.Star
+
+Resolution: 3840 x 2160
+Frequency: 3Hz
+The times to repeat: 10 times
+
+Duration: 
+    Experiment 1: 5 seconds for Preparation + 5 seconds for flicker
+    Experiment 2: 5 seconds for Preparation + 5 seconds for flicker
+    Experiment 3: 5 seconds for Preparation + 5 times of each shape moving
+    Experiment 4: 5 seconds for Preparation + 3 seconds + 3 seconds
